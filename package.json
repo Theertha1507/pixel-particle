@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "simplex-noise": "^4.0.3"
+  }
+}
