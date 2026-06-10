@@ -1,6 +1,12 @@
 # Pixel Particle
 
-An interactive ASCII particle portrait built using JavaScript and HTML5 Canvas.
+An interactive ASCII particle portrait built using JavaScript and HTML5 Canvas.<img width="928" height="818" alt="Screenshot 2026-06-10 203628" src="https://github.com/user-attachments/assets/c58b5d5d-39bd-4d3c-9606-e87b0b272c94" />
+<img width="1038" height="747" alt="Screenshot 2026-06-10 203402" src="https://github.com/user-attachments/assets/0149bf07-d1d2-49d4-929a-b83ee364d7cf" />
+
+
+Live Demo: https://theertha1507.github.io/pixel-particle/
+
+
 
 ## Overview
 
